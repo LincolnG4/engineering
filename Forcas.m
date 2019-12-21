@@ -1,0 +1,4 @@
+function Forcas=CalculaForcas()
+    
+
+end
